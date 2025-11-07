@@ -1,3 +1,4 @@
 [submodule "ui-catalog"]
 	path = ui-catalog
 	url = https://github.com/shubhamwsa-cloud/component-test-app.git
+	branch = main
